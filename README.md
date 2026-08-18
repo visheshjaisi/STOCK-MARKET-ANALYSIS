@@ -45,13 +45,9 @@ The Sharpe ratio was calculated using a risk-free rate of 3.75%.
 ## Results
 
 | Metric | Apple | Nvidia | 50/50 Portfolio |
-
 |---|---:|---:|---:|
-
 | Total Return | 34.93% | 21.22% | 28.08% |
-
 | Annual Volatility | 25.02% | 36.87% | 23.45% |
-
 | Sharpe Ratio | 1.25 | 0.47 | 1.04 |
 
 The correlation between Apple and Nvidia was approximately **0.12**.
